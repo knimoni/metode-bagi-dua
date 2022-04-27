@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1638767546 source:d:\naura\tugas\numerik\tugas1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1632125987 source:d:\naura\tugas\numerik\tugas1\coba.c
+	<stdio.h>
+
